@@ -1,0 +1,180 @@
+[0802/175128.577:ERROR:process_info.cc(631)] range at 0xff037000, size 0x230 fully unreadable
+[0802/175131.736:ERROR:process_info.cc(631)] range at 0xff03e000, size 0xf84 fully unreadable
+[0802/175131.736:ERROR:process_info.cc(631)] range at 0xff03b000, size 0xf84 fully unreadable
+[0802/175131.737:ERROR:process_info.cc(631)] range at 0xff036000, size 0xf84 fully unreadable
+[0802/175131.737:ERROR:process_info.cc(631)] range at 0xfefff000, size 0xf84 fully unreadable
+[0802/175131.737:ERROR:process_info.cc(631)] range at 0xfeffc000, size 0xf84 fully unreadable
+[0802/175131.737:ERROR:process_info.cc(631)] range at 0xfeff9000, size 0xf84 fully unreadable
+[0802/175131.738:ERROR:process_info.cc(631)] range at 0xfeee9000, size 0xf84 fully unreadable
+[0802/175131.738:ERROR:process_info.cc(631)] range at 0xfeee6000, size 0xf84 fully unreadable
+[0802/175131.738:ERROR:process_info.cc(631)] range at 0xfeee3000, size 0xf84 fully unreadable
+[0802/175131.738:ERROR:process_info.cc(631)] range at 0xfeee0000, size 0xf84 fully unreadable
+[0802/175131.739:ERROR:process_info.cc(631)] range at 0xfeedd000, size 0xf84 fully unreadable
+[0802/175131.739:ERROR:process_info.cc(631)] range at 0xfeeda000, size 0xf84 fully unreadable
+[0802/175131.739:ERROR:process_info.cc(631)] range at 0xfeed7000, size 0xf84 fully unreadable
+[0802/175131.739:ERROR:process_info.cc(631)] range at 0xfeed4000, size 0xf84 fully unreadable
+[0803/124623.043:ERROR:process_reader_win.cc(151)] SuspendThread: ¾Ü¾ø·ÃÎÊ¡£ (0x5)
+[0803/124759.126:ERROR:exception_snapshot_win.cc(87)] thread ID 2988 not found in process
+[0803/124759.187:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
+[0803/175107.456:ERROR:process_info.cc(631)] range at 0xff0df000, size 0x230 fully unreadable
+[0803/175114.504:ERROR:process_info.cc(631)] range at 0xff0de000, size 0xf84 fully unreadable
+[0803/175114.504:ERROR:process_info.cc(631)] range at 0xff0d9000, size 0xf84 fully unreadable
+[0803/175114.504:ERROR:process_info.cc(631)] range at 0xff0d6000, size 0xf84 fully unreadable
+[0803/175114.504:ERROR:process_info.cc(631)] range at 0xff09f000, size 0xf84 fully unreadable
+[0803/175114.504:ERROR:process_info.cc(631)] range at 0xff09c000, size 0xf84 fully unreadable
+[0803/175114.504:ERROR:process_info.cc(631)] range at 0xff099000, size 0xf84 fully unreadable
+[0803/175114.504:ERROR:process_info.cc(631)] range at 0xfef89000, size 0xf84 fully unreadable
+[0803/175114.504:ERROR:process_info.cc(631)] range at 0xfef86000, size 0xf84 fully unreadable
+[0803/175114.504:ERROR:process_info.cc(631)] range at 0xfef83000, size 0xf84 fully unreadable
+[0803/175114.504:ERROR:process_info.cc(631)] range at 0xfef80000, size 0xf84 fully unreadable
+[0803/175114.504:ERROR:process_info.cc(631)] range at 0xfef7d000, size 0xf84 fully unreadable
+[0803/175114.504:ERROR:process_info.cc(631)] range at 0xfef7a000, size 0xf84 fully unreadable
+[0803/175114.504:ERROR:process_info.cc(631)] range at 0xfef77000, size 0xf84 fully unreadable
+[0803/175114.504:ERROR:process_info.cc(631)] range at 0xfef74000, size 0xf84 fully unreadable
+[0803/175114.504:ERROR:process_info.cc(631)] range at 0xff096000, size 0xf84 fully unreadable
+[0803/175114.505:ERROR:process_info.cc(631)] range at 0xfef8f000, size 0xf84 fully unreadable
+[0808/085414.938:ERROR:settings.cc(258)] Settings magic is not 1129342067
+[0808/085415.066:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/091940.182:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/093351.498:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/094257.131:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/110853.520:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/112425.089:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/113425.090:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/113425.091:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/113925.092:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/115425.093:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/115708.742:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/120708.742:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/120708.742:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/121208.745:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/122708.804:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/124008.682:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/124538.741:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/125258.035:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/125538.740:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/125538.741:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/130038.743:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/131538.744:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/133038.746:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/134538.747:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/140038.749:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/141538.752:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/143038.752:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/144538.753:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/150038.754:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/151538.756:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/153038.757:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/154538.758:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/160038.759:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/161538.762:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/163038.763:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/164538.765:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/170038.768:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/171538.771:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/173038.772:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/174538.776:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/180038.777:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/181538.778:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0808/183038.781:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/091107.246:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/092107.258:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/092107.259:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/092607.248:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/094107.250:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/095607.263:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/101107.263:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/102607.276:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/103934.840:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/104107.310:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/105607.310:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/111107.312:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/112607.313:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/114107.316:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/115607.317:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/115646.449:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/121107.319:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/122607.492:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/123949.993:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/124949.995:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/124949.997:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/125449.996:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/130949.999:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/132450.000:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/133950.003:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/135450.012:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/135524.241:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/135924.277:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/140950.013:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/142450.020:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/143950.021:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/145450.025:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/150950.037:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/152450.043:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/153950.045:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/155450.046:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/160950.050:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/162450.077:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/162550.941:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/163950.084:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/165450.086:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/170950.088:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/172450.091:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/173950.093:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/175450.123:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/180950.131:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0809/181526.044:ERROR:process_info.cc(631)] range at 0xff51d000, size 0x230 fully unreadable
+[0809/181529.283:ERROR:process_info.cc(631)] range at 0xff51c000, size 0xf84 fully unreadable
+[0809/181529.283:ERROR:process_info.cc(631)] range at 0xff519000, size 0xf84 fully unreadable
+[0809/181529.283:ERROR:process_info.cc(631)] range at 0xff516000, size 0xf84 fully unreadable
+[0809/181529.284:ERROR:process_info.cc(631)] range at 0xff4df000, size 0xf84 fully unreadable
+[0809/181529.284:ERROR:process_info.cc(631)] range at 0xff4dc000, size 0xf84 fully unreadable
+[0809/181529.284:ERROR:process_info.cc(631)] range at 0xff4d9000, size 0xf84 fully unreadable
+[0809/181529.284:ERROR:process_info.cc(631)] range at 0xff3c9000, size 0xf84 fully unreadable
+[0809/181529.284:ERROR:process_info.cc(631)] range at 0xff3c6000, size 0xf84 fully unreadable
+[0809/181529.284:ERROR:process_info.cc(631)] range at 0xff3c3000, size 0xf84 fully unreadable
+[0809/181529.285:ERROR:process_info.cc(631)] range at 0xff3c0000, size 0xf84 fully unreadable
+[0809/181529.285:ERROR:process_info.cc(631)] range at 0xff3bd000, size 0xf84 fully unreadable
+[0809/181529.285:ERROR:process_info.cc(631)] range at 0xff3ba000, size 0xf84 fully unreadable
+[0809/181529.285:ERROR:process_info.cc(631)] range at 0xff3b7000, size 0xf84 fully unreadable
+[0809/181529.285:ERROR:process_info.cc(631)] range at 0xff3b4000, size 0xf84 fully unreadable
+[0810/085909.553:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/090909.560:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/090909.561:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/091409.583:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/092909.585:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/094409.585:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/095909.586:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/101409.589:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/102909.590:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/104409.592:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/105909.593:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/111409.594:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/112909.595:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/114409.598:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/115909.600:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/121409.600:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/122909.603:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/124409.605:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/125909.606:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/131409.607:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/132909.608:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/134409.610:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/135909.610:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/141409.612:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/142909.616:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/144409.617:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/145909.617:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/151409.620:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/152909.621:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/154409.621:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/155909.622:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/161409.624:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/162909.676:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/164409.676:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/165909.678:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/171409.679:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/172909.680:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0810/174409.683:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0811/082005.467:ERROR:crash_report_database_win.cc(426)] unexpected header
+[0811/103851.331:ERROR:crash_report_database_win.cc(426)] unexpected header

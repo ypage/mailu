@@ -1,0 +1,10 @@
+/* //你自己调整一下位置．ｏｋ */
+@font-face {
+    font-family: Brushpen;
+    src: url(../fonts/brushpen.ttf?v=2.0.0);
+    font-weight: 400;
+    font-style: normal
+}
+.title .left{
+    font-family: Brushpen
+}
